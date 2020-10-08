@@ -1,2 +1,2 @@
-# friday
+# Friday
 vpa
